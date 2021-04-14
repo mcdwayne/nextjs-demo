@@ -7,8 +7,8 @@ const Index = () => (
   <Main
     meta={(
       <Meta
-        title="Next.js Boilerplate Presentation"
-        description="Next js Boilerplate is the perfect starer code for your project. Build your React application with Next.js framework."
+        title="Hello Maciek"
+        description="Demo demo demo demo demo"
       />
     )}
   >
@@ -19,15 +19,14 @@ const Index = () => (
       />
     </a>
     <h1 className="font-bold text-2xl">
-      Boilerplate code for your Nextjs project with Tailwind CSS
+      Hi Maciek
     </h1>
     <p>
       <span role="img" aria-label="rocket">
         🚀
       </span>
       {' '}
-      Next.js Boilerplate is a starter code for your Next js project by putting developer experience
-      first .
+      It is not much, but it is a start.  Leaving everything else as is for now for this demo.
       {' '}
       <span role="img" aria-label="zap">
         ⚡️
