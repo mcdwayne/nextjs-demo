@@ -207,7 +207,6 @@ const Index = () => (
         Production-ready
       </li>
     </ul>
-
   </Main>
 );
 
