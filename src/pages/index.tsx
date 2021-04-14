@@ -12,25 +12,29 @@ const Index = () => (
       />
     )}
   >
-    <a href="https://github.com/ixartz/Next-js-Boilerplate">
+    
       <img
-        src={`${process.env.baseUrl}/assets/images/nextjs-starter-banner.png`}
-        alt="Nextjs starter banner"
+        src={`https://res.cloudinary.com/damien1/w_400,c_scale,f_auto,q_auto,dpr_3.0/blog/buddyworks.png`}
+        alt="buddy"
       />
-    </a>
+      <img
+        src={`https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-sq.png`}
+        alt="gitkraken"
+      />
     <h1 className="font-bold text-2xl">
       Hi Maciek
     </h1>
     <p>
-      <span role="img" aria-label="rocket">
-        🚀
-      </span>
       {' '}
       It is not much, but it is a start.  Leaving everything else as is for now for this demo.
       {' '}
       <span role="img" aria-label="zap">
         ⚡️
       </span>
+      {' '}
+      {' '}
+      {' '}
+      {' '}
       {' '}
       Made with
       {' '}
