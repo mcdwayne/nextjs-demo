@@ -5,11 +5,11 @@
 /coverage
 
 # export
-/dist
+
 
 # production
 /build
-/dist
+
 /.next
 /bundles
 
