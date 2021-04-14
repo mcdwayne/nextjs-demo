@@ -207,12 +207,7 @@ const Index = () => (
         Production-ready
       </li>
     </ul>
-    <p>
-      Check our GitHub project for more information about
-      {' '}
-      <a href="https://github.com/ixartz/Next-js-Boilerplate">Nextjs Boilerplate</a>
-      .
-    </p>
+
   </Main>
 );
 
